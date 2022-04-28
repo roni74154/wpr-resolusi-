@@ -4,6 +4,7 @@ RENCANA KONTEN WPR
   -ES6
   -FrameWork JavaScript
   -view
+  -react
 -struktur data dasar
 -PHP framework
   -laravel
