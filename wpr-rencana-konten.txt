@@ -3,9 +3,11 @@ RENCANA KONTEN WPR
 -JavaScript
   -ES6
   -FrameWork JavaScript
-      -angolar
-      -react
+  -view
+  -react
+-struktur data dasar
 -PHP framework
   -laravel
 -interview
 -Vlogs
+-phyton
