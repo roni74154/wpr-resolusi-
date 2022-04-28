@@ -8,6 +8,7 @@ RENCANA KONTEN WPR
 -struktur data dasar
 -PHP framework
   -laravel
+  -codeigneter4
 -interview
 -Vlogs
 -phyton
