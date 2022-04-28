@@ -3,6 +3,7 @@ RENCANA KONTEN WPR
 -JavaScript
   -ES6
   -FrameWork JavaScript
+-struktur data dasar
 -PHP framework
 -interview
 -Vlogs
