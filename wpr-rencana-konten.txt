@@ -6,6 +6,6 @@ RENCANA KONTEN WPR
       -angolar
       -react
 -PHP framework
-  laravel
+  -laravel
 -interview
 -Vlogs
